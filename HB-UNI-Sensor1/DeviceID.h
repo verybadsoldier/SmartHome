@@ -14,7 +14,7 @@
 
 
 //---------------------------------------------------------
-#define cDEVICE_ID      { 0xA5, 0xA5, 0x01 }
+#define cDEVICE_ID      { 0xA5, 0xA5, 0x02 }
 #define cDEVICE_SERIAL  "UNISENS001"
 
 

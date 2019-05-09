@@ -50,8 +50,8 @@
 // Über diese defines wird die Clock festgelegt
 // CLOCK_SYSCLOCK: 8MHz Quarz an XTAL oder 8MHz int. RC-Oszillator, Sleep Strom ca. 4uA
 // CLOCK_RTC:      8MHz int. RC-Oszillator, 32.768kHz Quarz an XTAL, Sleep Strom ca. 1uA
-#define CLOCK_SYSCLOCK
-//#define CLOCK_RTC
+//#define CLOCK_SYSCLOCK
+#define CLOCK_RTC
 
 //---------------------------------------------------------
 // Schwellwerte für Batteriespannungsmessung

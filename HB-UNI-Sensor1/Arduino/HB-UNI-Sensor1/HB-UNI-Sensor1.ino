@@ -43,7 +43,7 @@
 // - Schaltungsvariante und Pins für Batteriespannungsmessung
 // - Schwellwerte für Batteriespannungsmessung
 //
-#include "Cfg/Device_UniSensor_Aussen.h"
+#include "Cfg/Device_UniSensor_vbsBalkon.h"
 
 
 // number of available peers per channel

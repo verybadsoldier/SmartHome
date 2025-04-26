@@ -15,7 +15,7 @@
 // Insbesondere die RAM-Einsparungen sind wichtig für die Stabilität / dynamische Speicherzuweisungen etc.
 // Dies beseitigt dann auch die mögliche Arduino-Warnung 'Low memory available, stability problems may occur'.
 //
-//#define NDEBUG
+#define NDEBUG
 
 //---------------------------------------------------------
 // define this to read the device id, serial and device type from bootloader section

@@ -27,7 +27,7 @@
 // Andernfalls verwendet der Sketch Dummy-Werte als Messwerte (zum Testen der Anbindung an HomeMatic/RaspberryMatic/FHEM)
 //
 //#define SENSOR_DS18X20      // ONEWIRE_PIN define weiter unten muss zur HW passen! DS18X20_COUNT muss definiert sein!
-//#define SENSOR_BME280       // BME280 Library (finitespace) verwendet I2C Addr. 0x76, für 0x77 die Library anpassen!
+#define SENSOR_BME280       // BME280 Library (finitespace) verwendet I2C Addr. 0x76, für 0x77 die Library anpassen!
 //#define SENSOR_BMP180
 #define SENSOR_MAX44009     // MAX44009_ADDR define weiter unten muss zur HW passen!
 //#define SENSOR_TSL2561    // TSL2561_ADDR define weiter unten muss zur HW passen!
